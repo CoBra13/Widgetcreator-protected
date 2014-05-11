@@ -1,0 +1,165 @@
+2013/08/17 17:55:49 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii
+---
+2013/08/17 20:02:16 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(ModelGenerator), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/model')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii/model
+HTTP_REFERER=http://localhost/widgetcreator/index.php/gii/model
+---
+2013/08/17 20:02:22 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii
+---
+2013/08/17 20:12:46 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(CrudGenerator), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/crud')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii/crud
+HTTP_REFERER=http://localhost/widgetcreator/index.php/gii/crud
+---
+2013/08/17 20:12:48 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii
+HTTP_REFERER=http://localhost/widgetcreator/index.php/gii/crud
+---
+2013/08/17 20:12:50 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii
+HTTP_REFERER=http://localhost/widgetcreator/index.php/gii
+---
+2013/08/17 20:13:09 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii
+---
+2013/08/17 20:13:11 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii
+---
+2013/08/17 20:13:19 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii
+---
+2013/08/17 20:13:50 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii
+---
+2013/08/17 20:13:53 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('logout')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/default/log...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii/default/logout
+HTTP_REFERER=http://localhost/widgetcreator/index.php/gii
+---
+2013/08/17 20:14:00 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii/
+---
+2013/08/17 20:14:04 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('login')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/default/log...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii/default/login
+---
+2013/08/17 20:14:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii/
+---
+2013/08/17 20:14:52 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii
+---
+2013/08/17 20:15:32 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(282): CController->run('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/widgetcreator/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/widgetcreator/index.php/gii
+---
